@@ -1,0 +1,161 @@
+2025-11-17 17:06:35,555 [INFO] Starting search across 72 GH Archive files...
+2025-11-17 17:06:35,556 [INFO] Looking for target: Karthiks-19/vega_observe
+2025-11-17 17:06:35,556 [INFO] Downloading 2025-11-15-0.json.gz
+2025-11-17 17:06:35,557 [INFO] Downloading 2025-11-15-1.json.gz
+2025-11-17 17:06:35,558 [INFO] Downloading 2025-11-15-2.json.gz
+2025-11-17 17:06:35,558 [INFO] Downloading 2025-11-15-3.json.gz
+2025-11-17 17:06:35,558 [INFO] Downloading 2025-11-15-4.json.gz
+2025-11-17 17:06:35,559 [INFO] Downloading 2025-11-15-5.json.gz
+2025-11-17 17:06:35,560 [INFO] Downloading 2025-11-15-6.json.gz
+2025-11-17 17:06:35,561 [INFO] Downloading 2025-11-15-7.json.gz
+2025-11-17 17:07:10,841 [INFO] No matches in 2025-11-15-7.json.gz
+2025-11-17 17:07:10,841 [INFO] Downloading 2025-11-15-8.json.gz
+2025-11-17 17:07:16,470 [INFO] No matches in 2025-11-15-1.json.gz
+2025-11-17 17:07:16,471 [INFO] Downloading 2025-11-15-9.json.gz
+2025-11-17 17:07:25,812 [INFO] No matches in 2025-11-15-4.json.gz
+2025-11-17 17:07:25,812 [INFO] Downloading 2025-11-15-10.json.gz
+2025-11-17 17:07:29,329 [INFO] No matches in 2025-11-15-6.json.gz
+2025-11-17 17:07:29,329 [INFO] Downloading 2025-11-15-11.json.gz
+2025-11-17 17:07:29,459 [INFO] No matches in 2025-11-15-9.json.gz
+2025-11-17 17:07:29,459 [INFO] Downloading 2025-11-15-12.json.gz
+2025-11-17 17:07:46,895 [INFO] No matches in 2025-11-15-11.json.gz
+2025-11-17 17:07:46,896 [INFO] Downloading 2025-11-15-13.json.gz
+2025-11-17 17:07:48,659 [INFO] No matches in 2025-11-15-5.json.gz
+2025-11-17 17:07:48,659 [INFO] Downloading 2025-11-15-14.json.gz
+2025-11-17 17:07:54,008 [INFO] No matches in 2025-11-15-0.json.gz
+2025-11-17 17:07:54,008 [INFO] Downloading 2025-11-15-15.json.gz
+2025-11-17 17:08:01,211 [INFO] No matches in 2025-11-15-3.json.gz
+2025-11-17 17:08:01,211 [INFO] Downloading 2025-11-15-16.json.gz
+2025-11-17 17:08:04,151 [INFO] No matches in 2025-11-15-2.json.gz
+2025-11-17 17:08:04,151 [INFO] Downloading 2025-11-15-17.json.gz
+2025-11-17 17:08:12,344 [INFO] No matches in 2025-11-15-12.json.gz
+2025-11-17 17:08:12,344 [INFO] Downloading 2025-11-15-18.json.gz
+2025-11-17 17:08:19,651 [INFO] FOUND 1 matches in 2025-11-15-13.json.gz
+2025-11-17 17:08:19,652 [INFO] Downloading 2025-11-15-19.json.gz
+2025-11-17 17:08:19,652 [INFO] 2025-11-15-13.json.gz → saved with 1 matches
+2025-11-17 17:08:33,873 [INFO] No matches in 2025-11-15-10.json.gz
+2025-11-17 17:08:33,874 [INFO] Downloading 2025-11-15-20.json.gz
+2025-11-17 17:08:34,585 [INFO] No matches in 2025-11-15-8.json.gz
+2025-11-17 17:08:34,585 [INFO] Downloading 2025-11-15-21.json.gz
+2025-11-17 17:08:48,373 [INFO] No matches in 2025-11-15-14.json.gz
+2025-11-17 17:08:48,373 [INFO] Downloading 2025-11-15-22.json.gz
+2025-11-17 17:08:49,522 [INFO] No matches in 2025-11-15-19.json.gz
+2025-11-17 17:08:49,522 [INFO] Downloading 2025-11-15-23.json.gz
+2025-11-17 17:08:57,946 [INFO] No matches in 2025-11-15-18.json.gz
+2025-11-17 17:08:57,946 [INFO] Downloading 2025-11-16-0.json.gz
+2025-11-17 17:09:01,972 [INFO] No matches in 2025-11-15-15.json.gz
+2025-11-17 17:09:01,973 [INFO] Downloading 2025-11-16-1.json.gz
+2025-11-17 17:09:02,815 [INFO] No matches in 2025-11-15-17.json.gz
+2025-11-17 17:09:02,815 [INFO] Downloading 2025-11-16-2.json.gz
+2025-11-17 17:09:14,251 [INFO] No matches in 2025-11-15-16.json.gz
+2025-11-17 17:09:14,252 [INFO] Downloading 2025-11-16-3.json.gz
+2025-11-17 17:09:23,218 [INFO] No matches in 2025-11-16-1.json.gz
+2025-11-17 17:09:23,219 [INFO] Downloading 2025-11-16-4.json.gz
+2025-11-17 17:09:33,838 [INFO] No matches in 2025-11-15-21.json.gz
+2025-11-17 17:09:33,839 [INFO] Downloading 2025-11-16-5.json.gz
+2025-11-17 17:09:41,040 [INFO] No matches in 2025-11-15-23.json.gz
+2025-11-17 17:09:41,040 [INFO] Downloading 2025-11-16-6.json.gz
+2025-11-17 17:09:42,068 [INFO] No matches in 2025-11-16-4.json.gz
+2025-11-17 17:09:42,068 [INFO] Downloading 2025-11-16-7.json.gz
+2025-11-17 17:09:42,077 [INFO] No matches in 2025-11-15-22.json.gz
+2025-11-17 17:09:42,077 [INFO] Downloading 2025-11-16-8.json.gz
+2025-11-17 17:09:45,476 [INFO] No matches in 2025-11-15-20.json.gz
+2025-11-17 17:09:45,476 [INFO] Downloading 2025-11-16-9.json.gz
+2025-11-17 17:10:00,979 [INFO] No matches in 2025-11-16-8.json.gz
+2025-11-17 17:10:00,980 [INFO] Downloading 2025-11-16-10.json.gz
+2025-11-17 17:10:10,987 [INFO] No matches in 2025-11-16-9.json.gz
+2025-11-17 17:10:10,988 [INFO] Downloading 2025-11-16-11.json.gz
+2025-11-17 17:10:19,811 [INFO] No matches in 2025-11-16-10.json.gz
+2025-11-17 17:10:19,811 [INFO] Downloading 2025-11-16-12.json.gz
+2025-11-17 17:10:20,791 [INFO] No matches in 2025-11-16-7.json.gz
+2025-11-17 17:10:20,792 [INFO] Downloading 2025-11-16-13.json.gz
+2025-11-17 17:10:35,786 [INFO] No matches in 2025-11-16-12.json.gz
+2025-11-17 17:10:35,786 [INFO] Downloading 2025-11-16-14.json.gz
+2025-11-17 17:10:49,021 [INFO] No matches in 2025-11-16-11.json.gz
+2025-11-17 17:10:49,022 [INFO] Downloading 2025-11-16-15.json.gz
+2025-11-17 17:10:49,291 [INFO] No matches in 2025-11-16-2.json.gz
+2025-11-17 17:10:49,291 [INFO] Downloading 2025-11-16-16.json.gz
+2025-11-17 17:10:49,506 [INFO] No matches in 2025-11-16-3.json.gz
+2025-11-17 17:10:49,506 [INFO] Downloading 2025-11-16-17.json.gz
+2025-11-17 17:11:01,903 [INFO] No matches in 2025-11-16-14.json.gz
+2025-11-17 17:11:01,904 [INFO] Downloading 2025-11-16-18.json.gz
+2025-11-17 17:11:04,454 [INFO] No matches in 2025-11-16-0.json.gz
+2025-11-17 17:11:04,454 [INFO] Downloading 2025-11-16-19.json.gz
+2025-11-17 17:11:23,934 [INFO] No matches in 2025-11-16-15.json.gz
+2025-11-17 17:11:23,934 [INFO] Downloading 2025-11-16-20.json.gz
+2025-11-17 17:11:26,161 [INFO] No matches in 2025-11-16-5.json.gz
+2025-11-17 17:11:26,161 [INFO] Downloading 2025-11-16-21.json.gz
+2025-11-17 17:11:34,340 [INFO] No matches in 2025-11-16-17.json.gz
+2025-11-17 17:11:34,341 [INFO] Downloading 2025-11-16-22.json.gz
+2025-11-17 17:11:36,230 [INFO] No matches in 2025-11-16-16.json.gz
+2025-11-17 17:11:36,230 [INFO] Downloading 2025-11-16-23.json.gz
+2025-11-17 17:11:39,329 [INFO] No matches in 2025-11-16-13.json.gz
+2025-11-17 17:11:39,330 [INFO] Downloading 2025-11-17-0.json.gz
+2025-11-17 17:11:46,975 [INFO] No matches in 2025-11-16-18.json.gz
+2025-11-17 17:11:46,976 [INFO] Downloading 2025-11-17-1.json.gz
+2025-11-17 17:11:59,213 [INFO] No matches in 2025-11-16-6.json.gz
+2025-11-17 17:11:59,214 [INFO] Downloading 2025-11-17-2.json.gz
+2025-11-17 17:11:59,751 [INFO] No matches in 2025-11-16-22.json.gz
+2025-11-17 17:11:59,752 [INFO] Downloading 2025-11-17-3.json.gz
+2025-11-17 17:12:19,563 [INFO] No matches in 2025-11-16-19.json.gz
+2025-11-17 17:12:19,564 [INFO] Downloading 2025-11-17-4.json.gz
+2025-11-17 17:12:21,043 [INFO] No matches in 2025-11-16-23.json.gz
+2025-11-17 17:12:21,044 [INFO] Downloading 2025-11-17-5.json.gz
+2025-11-17 17:12:34,871 [INFO] No matches in 2025-11-17-2.json.gz
+2025-11-17 17:12:34,871 [INFO] Downloading 2025-11-17-6.json.gz
+2025-11-17 17:12:38,630 [INFO] No matches in 2025-11-17-1.json.gz
+2025-11-17 17:12:38,630 [INFO] Downloading 2025-11-17-7.json.gz
+2025-11-17 17:12:42,927 [INFO] No matches in 2025-11-16-20.json.gz
+2025-11-17 17:12:42,927 [INFO] Downloading 2025-11-17-8.json.gz
+2025-11-17 17:12:59,012 [INFO] No matches in 2025-11-17-4.json.gz
+2025-11-17 17:12:59,012 [INFO] Downloading 2025-11-17-9.json.gz
+2025-11-17 17:13:00,727 [INFO] No matches in 2025-11-16-21.json.gz
+2025-11-17 17:13:00,727 [INFO] Downloading 2025-11-17-10.json.gz
+2025-11-17 17:13:05,182 [INFO] No matches in 2025-11-17-5.json.gz
+2025-11-17 17:13:05,182 [INFO] Downloading 2025-11-17-11.json.gz
+2025-11-17 17:13:05,739 [WARNING] 2025-11-17-11.json.gz -> HTTP 404, skipping
+2025-11-17 17:13:05,741 [INFO] Downloading 2025-11-17-12.json.gz
+2025-11-17 17:13:05,741 [WARNING] 2025-11-17-11.json.gz → ERROR: HTTP 404
+2025-11-17 17:13:06,265 [WARNING] 2025-11-17-12.json.gz -> HTTP 404, skipping
+2025-11-17 17:13:06,266 [INFO] Downloading 2025-11-17-13.json.gz
+2025-11-17 17:13:06,266 [WARNING] 2025-11-17-12.json.gz → ERROR: HTTP 404
+2025-11-17 17:13:06,811 [WARNING] 2025-11-17-13.json.gz -> HTTP 404, skipping
+2025-11-17 17:13:06,812 [INFO] Downloading 2025-11-17-14.json.gz
+2025-11-17 17:13:06,812 [WARNING] 2025-11-17-13.json.gz → ERROR: HTTP 404
+2025-11-17 17:13:07,366 [WARNING] 2025-11-17-14.json.gz -> HTTP 404, skipping
+2025-11-17 17:13:07,368 [INFO] Downloading 2025-11-17-15.json.gz
+2025-11-17 17:13:07,369 [WARNING] 2025-11-17-14.json.gz → ERROR: HTTP 404
+2025-11-17 17:13:07,948 [WARNING] 2025-11-17-15.json.gz -> HTTP 404, skipping
+2025-11-17 17:13:07,950 [INFO] Downloading 2025-11-17-16.json.gz
+2025-11-17 17:13:07,950 [WARNING] 2025-11-17-15.json.gz → ERROR: HTTP 404
+2025-11-17 17:13:08,539 [WARNING] 2025-11-17-16.json.gz -> HTTP 404, skipping
+2025-11-17 17:13:08,540 [INFO] Downloading 2025-11-17-17.json.gz
+2025-11-17 17:13:08,540 [WARNING] 2025-11-17-16.json.gz → ERROR: HTTP 404
+2025-11-17 17:13:10,429 [WARNING] 2025-11-17-17.json.gz -> HTTP 404, skipping
+2025-11-17 17:13:10,431 [INFO] Downloading 2025-11-17-18.json.gz
+2025-11-17 17:13:10,431 [WARNING] 2025-11-17-17.json.gz → ERROR: HTTP 404
+2025-11-17 17:13:11,003 [WARNING] 2025-11-17-18.json.gz -> HTTP 404, skipping
+2025-11-17 17:13:11,004 [INFO] Downloading 2025-11-17-19.json.gz
+2025-11-17 17:13:11,005 [WARNING] 2025-11-17-18.json.gz → ERROR: HTTP 404
+2025-11-17 17:13:11,526 [WARNING] 2025-11-17-19.json.gz -> HTTP 404, skipping
+2025-11-17 17:13:11,527 [INFO] Downloading 2025-11-17-20.json.gz
+2025-11-17 17:13:11,528 [WARNING] 2025-11-17-19.json.gz → ERROR: HTTP 404
+2025-11-17 17:13:12,062 [WARNING] 2025-11-17-20.json.gz -> HTTP 404, skipping
+2025-11-17 17:13:12,063 [INFO] Downloading 2025-11-17-21.json.gz
+2025-11-17 17:13:12,063 [WARNING] 2025-11-17-20.json.gz → ERROR: HTTP 404
+2025-11-17 17:13:12,568 [WARNING] 2025-11-17-21.json.gz -> HTTP 404, skipping
+2025-11-17 17:13:12,569 [INFO] Downloading 2025-11-17-22.json.gz
+2025-11-17 17:13:12,569 [WARNING] 2025-11-17-21.json.gz → ERROR: HTTP 404
+2025-11-17 17:13:13,143 [WARNING] 2025-11-17-22.json.gz -> HTTP 404, skipping
+2025-11-17 17:13:13,144 [INFO] Downloading 2025-11-17-23.json.gz
+2025-11-17 17:13:13,144 [WARNING] 2025-11-17-22.json.gz → ERROR: HTTP 404
+2025-11-17 17:13:14,188 [WARNING] 2025-11-17-23.json.gz -> HTTP 404, skipping
+2025-11-17 17:13:14,190 [WARNING] 2025-11-17-23.json.gz → ERROR: HTTP 404
+2025-11-17 17:13:21,288 [INFO] No matches in 2025-11-17-0.json.gz
+2025-11-17 17:13:31,148 [INFO] No matches in 2025-11-17-9.json.gz
+2025-11-17 17:13:36,021 [INFO] No matches in 2025-11-17-7.json.gz
+2025-11-17 17:13:36,115 [INFO] No matches in 2025-11-17-10.json.gz
+2025-11-17 17:13:39,172 [INFO] No matches in 2025-11-17-8.json.gz
+2025-11-17 17:13:40,850 [INFO] No matches in 2025-11-17-3.json.gz
+2025-11-17 17:13:44,886 [INFO] No matches in 2025-11-17-6.json.gz
+2025-11-17 17:13:44,915 [INFO] Done. Matches are in matches.log, saved files in saved/
